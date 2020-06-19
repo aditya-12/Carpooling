@@ -7,7 +7,7 @@
     <string name="signup">SIGN UP</string>
 
 
-    <string name="google_maps_api_key">AIzaSyCj2BHePbW2fSBxI16S0cSg4szNOiETU_A</string>
+    <string name="google_maps_api_key">please enter your api</string>
     <string name="title_activity_sample">sample</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
