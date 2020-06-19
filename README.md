@@ -1,5 +1,5 @@
 # Carpooling
-##Carpooling: Android app
+Carpooling: Android app
 
 Carpooling is an android device application for carpooling for farmers. It is still under construction, till now, limited features 
 are available which are described below.  
